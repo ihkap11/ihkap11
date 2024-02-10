@@ -12,7 +12,7 @@ I've mostly worked in speech and conversational AI, produced some research work 
 
 🌱 **Open Source Contrutions:** 
 
-- I'm helping with dashboard backend, resource organization, and platform optimization improving user experience @[FeatureForm](https://github.com/featureform/featureform), the Virtual Feature Store.
+- With the help of a wonderful team at FeatureForm, I'm helping with dashboard backend, resource organization, and platform optimization improving user experience @[FeatureForm](https://github.com/featureform/featureform), the Virtual Feature Store.
 - I've recently started contributing to [HuggingFace/Diffusers](https://github.com/huggingface/diffusers) and plan to make more contributions.
 
 
