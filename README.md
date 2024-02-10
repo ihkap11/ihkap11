@@ -5,7 +5,7 @@ I'm a machine learning engineer with 2 years of experience. I graduded with my M
 ### 🌱 What I'm doing these days?
 🌿 **Matchmaking and Ranking:** 
 
-- Frustrated by League of Legend's matchmaking, I decided to start working on my own [game simulation engine](https://github.com/ihkap11/LeagueFanatics) and understand the matchmaking and ranking.
+- Frustrated by League of Legend's matchmaking ⚔️, I decided to start working on my own [game simulation engine](https://github.com/ihkap11/LeagueFanatics) and understand the matchmaking and ranking.
 - I'm currently reading [_A Bayesian Approximation Method for Online Ranking_](https://jmlr.org/papers/volume12/weng11a/weng11a.pdf) by Weng and Lin.
 
 🌿 **Open Source Contrutions:** 
