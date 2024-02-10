@@ -7,7 +7,7 @@ I've mostly worked in speech and conversational AI, produced some research work 
 ####  What I'm doing these days?
 🍃 **Game Simulation Enginge with Matchmaking and Ranking:** 
 
-- Frustrated by League of Legend's matchmaking ⚔️, I decided to start working on my own [game simulation engine](https://github.com/ihkap11/LeagueFanatics) and understand the matchmaking and ranking.
+- Frustrated by League of Legend's matchmaking ⚔️, I decided to start working on my own [game simulation engine](https://github.com/ihkap11/LeagueFanatics) to understand  matchmaking and ranking algorithms, and eventually build a working software. 
 - I'm currently reading [_A Bayesian Approximation Method for Online Ranking_](https://jmlr.org/papers/volume12/weng11a/weng11a.pdf) by Weng and Lin.
 
 🌱 **Open Source Contrutions:** 
