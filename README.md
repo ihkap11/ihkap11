@@ -5,7 +5,7 @@ I'm a machine learning engineer with 2 years of experience. I graduated with my 
 I've mostly worked in speech and conversational AI, produced some research work [[Google Scholar](https://scholar.google.com/citations?hl=en&user=7HfvNEcAAAAJ)],  and now I'm learning/solving problems that interests me like matchmaking and recommendations, LLMs, and ML lifecycle management and orchestration toolings.
 
 ####  What I'm doing these days?
-🍃 **Game simulation enginge with Matchmaking and Ranking:** 
+🍃 **Game Simulation Enginge with Matchmaking and Ranking:** 
 
 - Frustrated by League of Legend's matchmaking ⚔️, I decided to start working on my own [game simulation engine](https://github.com/ihkap11/LeagueFanatics) and understand the matchmaking and ranking.
 - I'm currently reading [_A Bayesian Approximation Method for Online Ranking_](https://jmlr.org/papers/volume12/weng11a/weng11a.pdf) by Weng and Lin.
