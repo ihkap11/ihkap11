@@ -17,7 +17,7 @@ I've mostly worked in speech and conversational AI, produced some research work 
 
 
 
-👯 Heads up, I'm looking for new opportunity in Machine Learning, preferably around LLMs and ML lifecycle toolings. Reach out to me at bpakhi97@gmail.com. 
+👯 I'm looking for new opportunity in Machine Learning, preferably around LLMs and ML lifecycle toolings. Reach out to me at bpakhi97@gmail.com. 
 <!--
 **ihkap11/ihkap11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
