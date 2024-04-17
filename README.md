@@ -3,7 +3,7 @@
 I'm a machine learning engineer with 2 years of experience. I graduated with my Master's in AI from the University of Edinburgh in 2022, where I explored the potential of self-supervised learning techniques in learning from erroneous transcriptions. These techniques helped in training new ASR models with improved performance across various language and acoustic model configurations.
 
 I've mostly worked in speech and conversational AI, produced some research work [[Google Scholar](https://scholar.google.com/citations?hl=en&user=7HfvNEcAAAAJ)],  and now I'm diverging to learning/solving problems like matchmaking and recommendations, LLMs, and ML lifecycle management toolings.
-
+<!--
 ####  What I'm doing these days?
 🍃 **Game Simulation with Matchmaking and Ranking:** 
 
@@ -18,7 +18,7 @@ I've mostly worked in speech and conversational AI, produced some research work 
 
 
 👯 I'm looking for new opportunity in Machine Learning, preferably around LLMs and ML lifecycle toolings. Reach out to me at bpakhi97@gmail.com. 
-<!--
+
 **ihkap11/ihkap11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
