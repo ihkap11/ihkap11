@@ -6,6 +6,7 @@ I grauduated with a Master's in AI from the University of Edinburgh (batch 2022)
 
 ####  What I'm doing these days?
 🍃 **Matchmaking simulation engine [here](https://github.com/ihkap11/LeagueFanatics)** 
+
 Motivation: - Frustrated by League of Legend's matchmaking ⚔️, I decided to start working on my own [game simulation](https://github.com/ihkap11/LeagueFanatics) to understand  matchmaking and ranking algorithms, and eventually build a working software. 
 - Short term:
   - Built a client-server using FastAPI REST and websockets.
